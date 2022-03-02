@@ -9,7 +9,7 @@ was a good challenge
 Getting the opacity of the background 
 
 ## Screenshot
-![ScreenShot](/Screenshot  Order Summary componenet.png)
+![ScreenShot](/ScreenshotOrderSummarycomponenet.png)
 
 
 ##Live Site URL 
