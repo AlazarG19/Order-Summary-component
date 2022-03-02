@@ -9,12 +9,12 @@ was a good challenge
 Getting the opacity of the background 
 
 ## Screenshot
+(./Screenshot  Order Summary componenet.png)
 
 ##Live Site URL 
 
 Website  https://alazarg19.github.io/Order-Summary-component/ 
 
-(./Screenshot  Order Summary componenet.png)
 
 ##My process 
 
