@@ -14,7 +14,7 @@ Getting the opacity of the background
 
 Website  https://alazarg19.github.io/Order-Summary-component/ 
 
-![](./Screenshot  Order Summary componenet.png)
+(./Screenshot  Order Summary componenet.png)
 
 ##My process 
 
